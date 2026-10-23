@@ -1,4 +1,9 @@
 # LocalFileTools
+## Download for Windows
+
+**[Download LocalFileTools installer](https://github.com/TejasKoravanavar/LocalFileTools/releases/latest/download/LocalFileTools-Setup.exe)**
+
+Run `LocalFileTools-Setup.exe` on Windows 10/11. Internet may be needed during the first installation. The “Source code” downloads are for developers.
 
 LocalFileTools is a Windows desktop app for local PDF and image workflows. Processing happens on the computer. It includes PDF merge, split, organize, conversion, OCR, compression, page editing, security, comparison, and image conversion and editing tools.
 
