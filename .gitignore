@@ -1,0 +1,7 @@
+bin/
+obj/
+.build/
+package/
+package-x86/
+LocalFileTools-Setup.exe
+*.log
