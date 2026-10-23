@@ -11,6 +11,8 @@ LocalFileTools is a Windows desktop app for local PDF and image workflows. Proce
 
 Download `LocalFileTools-Setup.exe` from the GitHub Release. Run it on a compatible Windows 10 or 11 laptop. Setup chooses the x86 or x64 app and downloads Microsoft .NET 10 Desktop Runtime into the app folder only when it is missing. The first installation may require internet access. See `INSTALL.md` for details.
 
+![Select files and open them with LocalFileTools](LocalFileTools-right-click-guide.png)
+
 ## Build from source
 
 See `BUILD.md`. The source uses .NET 10, WPF, PDFsharp, Docnet/PDFium, Magick.NET, and Tesseract. The supplied logo is embedded in the app and installer.
